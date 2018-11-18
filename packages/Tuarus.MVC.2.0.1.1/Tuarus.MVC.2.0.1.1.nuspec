@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Tuarus.MVC</id>
+    <version>2.0.1.1</version>
+    <title>Tuarus.MVC</title>
+    <authors>Aster(路过秋天)</authors>
+    <owners>Aster(路过秋天)</owners>
+    <projectUrl>http://taurus.cyqdata.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Taurus.MVC is a simple mvc framework for asp.net</description>
+    <summary>Taurus.MVC is a simple mvc framework for asp.net</summary>
+    <copyright>版权所有 (C) 秋式软件 2010-2030</copyright>
+    <tags>Taurus MVC asp.net</tags>
+    <references>
+      <reference file="CYQ.Data.dll" />
+      <reference file="Taurus.Core.dll" />
+    </references>
+  </metadata>
+</package>

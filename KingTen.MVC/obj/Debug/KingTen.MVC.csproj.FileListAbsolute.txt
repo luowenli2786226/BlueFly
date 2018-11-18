@@ -1,0 +1,6 @@
+D:\KingTen.MVC\KingTen.MVC\KingTen.MVC\bin\KingTen.MVC.dll.config
+D:\KingTen.MVC\KingTen.MVC\KingTen.MVC\bin\KingTen.MVC.dll
+D:\KingTen.MVC\KingTen.MVC\KingTen.MVC\bin\KingTen.MVC.pdb
+D:\KingTen.MVC\KingTen.MVC\KingTen.MVC\obj\Debug\KingTen.MVC.csprojResolveAssemblyReference.cache
+D:\KingTen.MVC\KingTen.MVC\KingTen.MVC\obj\Debug\KingTen.MVC.dll
+D:\KingTen.MVC\KingTen.MVC\KingTen.MVC\obj\Debug\KingTen.MVC.pdb

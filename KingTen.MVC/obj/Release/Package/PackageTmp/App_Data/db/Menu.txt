@@ -1,0 +1,9 @@
+{"ID":"System.Int32","Name":"System.String","MenuUrl":"System.String","IsNewWindow":"System.Boolean","OrderNum":"System.Int32"},
+{"ID":"1","Name":"首页","MenuUrl":"/","IsNewWindow":"False","OrderNum":"1"},
+{"ID":"2","Name":"关于蓝蜻蜓","MenuUrl":"/about?id=6","IsNewWindow":"","OrderNum":"2"},
+{"ID":"3","Name":"新闻中心","MenuUrl":"/newslist","IsNewWindow":"False","OrderNum":"3"},
+{"ID":"4","Name":"产品展示","MenuUrl":"/productlist","IsNewWindow":"False","OrderNum":"4"},
+{"ID":"5","Name":"项目案例","MenuUrl":"/items","IsNewWindow":"","OrderNum":"5"},
+{"ID":"6","Name":"全球客户","MenuUrl":"/worldcustomer","IsNewWindow":"False","OrderNum":"6"}，
+{"ID":"7","Name":"招商代理","MenuUrl":"/invitebusniess","IsNewWindow":"False","OrderNum":"7"}
+{"ID":"8","Name":"联系我们","MenuUrl":"/contactus","IsNewWindow":"False","OrderNum":"8"}

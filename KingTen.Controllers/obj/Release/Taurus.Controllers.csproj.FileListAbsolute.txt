@@ -1,0 +1,21 @@
+G:\KingTen\KingTen.MVC\KingTen.Controllers\bin\Release\Taurus.Controllers.dll
+G:\KingTen\KingTen.MVC\KingTen.Controllers\bin\Release\Taurus.Controllers.pdb
+G:\KingTen\KingTen.MVC\KingTen.Controllers\bin\Release\CYQ.Data.dll
+G:\KingTen\KingTen.MVC\KingTen.Controllers\bin\Release\Taurus.Core.dll
+G:\KingTen\KingTen.MVC\KingTen.Controllers\bin\Release\Taurus.Logic.dll
+G:\KingTen\KingTen.MVC\KingTen.Controllers\bin\Release\Taurus.Logic.pdb
+G:\KingTen\KingTen.MVC\KingTen.Controllers\bin\Release\CYQ.Data.xml
+G:\KingTen\KingTen.MVC\KingTen.Controllers\bin\Release\Taurus.Core.xml
+G:\KingTen\KingTen.MVC\KingTen.Controllers\obj\Release\Taurus.Controllers.csprojResolveAssemblyReference.cache
+G:\KingTen\KingTen.MVC\KingTen.Controllers\obj\Release\Taurus.Controllers.dll
+G:\KingTen\KingTen.MVC\KingTen.Controllers\obj\Release\Taurus.Controllers.pdb
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.Controllers\bin\Release\Taurus.Controllers.dll
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.Controllers\bin\Release\Taurus.Controllers.pdb
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.Controllers\bin\Release\CYQ.Data.dll
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.Controllers\bin\Release\Taurus.Core.dll
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.Controllers\bin\Release\Taurus.Logic.dll
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.Controllers\bin\Release\Taurus.Logic.pdb
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.Controllers\obj\Release\Taurus.Controllers.csprojResolveAssemblyReference.cache
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.Controllers\obj\Release\Taurus.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.Controllers\obj\Release\Taurus.Controllers.dll
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.Controllers\obj\Release\Taurus.Controllers.pdb

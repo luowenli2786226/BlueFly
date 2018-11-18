@@ -1,0 +1,19 @@
+G:\KingTen\KingTen.MVC\Taurus.Logic\bin\Release\Taurus.Logic.dll
+G:\KingTen\KingTen.MVC\Taurus.Logic\bin\Release\Taurus.Logic.pdb
+G:\KingTen\KingTen.MVC\Taurus.Logic\bin\Release\CYQ.Data.dll
+G:\KingTen\KingTen.MVC\Taurus.Logic\bin\Release\Taurus.Core.dll
+G:\KingTen\KingTen.MVC\Taurus.Logic\bin\Release\CYQ.Data.xml
+G:\KingTen\KingTen.MVC\Taurus.Logic\bin\Release\Taurus.Core.xml
+G:\KingTen\KingTen.MVC\Taurus.Logic\obj\Release\Taurus.Logic.csprojResolveAssemblyReference.cache
+G:\KingTen\KingTen.MVC\Taurus.Logic\obj\Release\Taurus.Logic.dll
+G:\KingTen\KingTen.MVC\Taurus.Logic\obj\Release\Taurus.Logic.pdb
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\Taurus.Logic\bin\Release\Taurus.Logic.dll
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\Taurus.Logic\bin\Release\Taurus.Logic.pdb
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\Taurus.Logic\bin\Release\CYQ.Data.dll
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\Taurus.Logic\bin\Release\Taurus.Core.dll
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\Taurus.Logic\bin\Release\CYQ.Data.xml
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\Taurus.Logic\bin\Release\Taurus.Core.xml
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\Taurus.Logic\obj\Release\Taurus.Logic.csprojResolveAssemblyReference.cache
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\Taurus.Logic\obj\Release\Taurus.Logic.csproj.CoreCompileInputs.cache
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\Taurus.Logic\obj\Release\Taurus.Logic.dll
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\Taurus.Logic\obj\Release\Taurus.Logic.pdb

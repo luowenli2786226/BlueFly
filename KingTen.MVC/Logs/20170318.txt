@@ -1,0 +1,13 @@
+http://localhost:62203/
+------------------------
+V5.7.6.5 Record On : 2017/3/18 15:42:50 http://localhost:62203/
+------------------------
+
+已添加了具有相同键的项。http://localhost:62203/aboutpic
+Referer:http://localhost:62203/about?id=1
+------------------------
+V5.7.6.5 Record On : 2017/3/18 15:42:58 http://localhost:62203/aboutpic
+Referer:http://localhost:62203/about?id=1
+------------------------
+
+V5.7.6.5 Error : 第 10 行，位置 2 上的开始标记“div”与结束标记“body”不匹配。 第 64 行，位置 3。filename : D:\BlueFly\KingTen\KingTen\KingTen.MVC\KingTen.MVC\Views\Default\aboutpic.html

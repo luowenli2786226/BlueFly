@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Jiangxi Kingten Industrial Co., Ltd</title>
+    <link href="/Style/css/style.css" rel="stylesheet" />
+    <link href="/Style/css/reset.css" rel="stylesheet" />
+    <script src="/Style/js/jquery-1.8.3.min.js"></script>
+    <script src="/Style/js/jquery.luara.0.0.1.min.js"></script>
+    <script src="/Style/js/common.js"></script>
+</head>
+<body>
+   
+    <div id="header">
+        <div class='box_header'>
+            <div class="box_header_top">
+                <div class="logo"> <a href=""><img src="/Style/images/logo.jpg" alt="" /></a> </div>
+                <div class="box_totalsearch">
+                    <div class="box_totalsearch_sub1">
+                        <div class="language">
+                            <ul>
+                                <li class="spanwelcome">Welcome to Website! </li>
+                                <li class="zh"> 中文版</li>
+                                <li class="en"> English</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div style="clear:both"></div>
+                    <div class="box_totalsearch_sub2">
+                        <div class="ad"> <span>Free Shipping</span> <span>100％Satisfaction</span> <span>SureFit™</span> <span>Free Samples</span> </div>
+
+                        <div class="yw_tel">+86-530-6219566 </div>
+                    </div>
+                </div>
+            </div>
+            <div style="clear:both"></div>
+            <!--导航条-->
+            <div id="box_nav">
+                <div id='box_column'>
+                    <div id='box_column_sub1'>
+                        <ul class="nav-first">
+                        <div id="mainNav" name="menuView">
+                            
+                            <li><a href="${MenuUrl}">${Name}</a></li>
+                           
+                            
+                        </div>
+                             </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="footer">
+        <div style="clear:both"></div>
+        <div class="footer">© 江西蓝蜻蜓实业有限公司 All Rights Reserved.赣ICP备10203277号</div>
+    </div>
+     <div class="box_left_sub2" id="othermenuView">
+        <div id="box_left_sub2_sub1">
+       <div class="box_others_title"><strong>${TypeName}</strong></div>
+        <ul >
+        	<a onmouseover="setUrl(this,${Count},${Type},${ID})" ><li class="box_others_li" id="li${ID}" isselected="0" ><span>${Name}</span></li></a>
+        </ul>
+        </div>
+         <script>
+             function setUrl(obj,Count,Type, id) {
+                
+                 if(Type==4)
+                {
+                    obj.href="newslistEn?id="+id;
+                }
+                else
+                {obj.href ="aboutEn?id=" + id;
+                }
+                 
+
+             }
+    </script>
+        </div>
+    
+
+</body>
+</html>

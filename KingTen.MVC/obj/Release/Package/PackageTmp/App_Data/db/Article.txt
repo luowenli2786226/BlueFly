@@ -1,0 +1,8 @@
+{"ID":"System.Int32","CateID":"System.Int32","Title":"System.String","CreateTime":"System.DateTime"},
+{"ID":"1","CateID":"1","Title":"企业资源","CreateTime":"2014-2-22 15:04:29"},
+{"ID":"2","CateID":"1","Title":"生产环境","CreateTime":"2014-2-22 15:37:38"},
+{"ID":"3","CateID":"1","Title":"企业荣誉","CreateTime":"2014-2-23 1:59:17"},
+{"ID":"4","CateID":"1","Title":"企业文化","CreateTime":"2014-2-23 2:02:13"},
+{"ID":"5","CateID":"1","Title":"使命愿景","CreateTime":"2014-2-23 9:34:27"},
+{"ID":"6","CateID":"1","Title":"企业简介","CreateTime":"2014-2-23 19:12:13"},
+{"ID":"6","CateID":"1","Title":"企业简介","CreateTime":"2014-2-23 19:12:13"}

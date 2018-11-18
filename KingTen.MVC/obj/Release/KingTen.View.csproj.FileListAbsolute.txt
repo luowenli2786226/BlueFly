@@ -1,0 +1,28 @@
+G:\KingTen\KingTen.MVC\KingTen.MVC\bin\KingTen.MVC.dll
+G:\KingTen\KingTen.MVC\KingTen.MVC\bin\KingTen.MVC.pdb
+G:\KingTen\KingTen.MVC\KingTen.MVC\bin\CYQ.Data.dll
+G:\KingTen\KingTen.MVC\KingTen.MVC\bin\Taurus.Controllers.dll
+G:\KingTen\KingTen.MVC\KingTen.MVC\bin\Taurus.Core.dll
+G:\KingTen\KingTen.MVC\KingTen.MVC\bin\Taurus.Logic.dll
+G:\KingTen\KingTen.MVC\KingTen.MVC\bin\Taurus.Controllers.pdb
+G:\KingTen\KingTen.MVC\KingTen.MVC\bin\CYQ.Data.xml
+G:\KingTen\KingTen.MVC\KingTen.MVC\bin\Taurus.Core.xml
+G:\KingTen\KingTen.MVC\KingTen.MVC\bin\Taurus.Logic.pdb
+G:\KingTen\KingTen.MVC\KingTen.MVC\obj\Release\KingTen.View.csprojResolveAssemblyReference.cache
+G:\KingTen\KingTen.MVC\KingTen.MVC\obj\Release\KingTen.MVC.dll
+G:\KingTen\KingTen.MVC\KingTen.MVC\obj\Release\KingTen.MVC.pdb
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.MVC\bin\KingTen.MVC.dll.config
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.MVC\bin\KingTen.MVC.dll
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.MVC\bin\KingTen.MVC.pdb
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.MVC\bin\CYQ.Data.dll
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.MVC\bin\Taurus.Controllers.dll
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.MVC\bin\Taurus.Core.dll
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.MVC\bin\Taurus.Logic.dll
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.MVC\bin\Taurus.Controllers.pdb
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.MVC\bin\CYQ.Data.xml
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.MVC\bin\Taurus.Core.xml
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.MVC\bin\Taurus.Logic.pdb
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.MVC\obj\Release\KingTen.View.csprojResolveAssemblyReference.cache
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.MVC\obj\Release\KingTen.View.csproj.CoreCompileInputs.cache
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.MVC\obj\Release\KingTen.MVC.dll
+C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.MVC\obj\Release\KingTen.MVC.pdb

@@ -1,0 +1,8 @@
+http://localhost:62203/about?id=6
+Referer:http://localhost:62203/
+------------------------
+V5.7.6.5 Record On : 2018/11/15 21:26:15 http://localhost:62203/about?id=6
+Referer:http://localhost:62203/
+------------------------
+
+V5.7.6.5 Error : 有多个根元素。 第 4 行，位置 2。filename : C:\Users\lyq\Documents\Tencent Files\519244156\FileRecv\MobileFile\KingTen\KingTen\KingTen\KingTen.MVC\KingTen.MVC\Views\Default\about.html

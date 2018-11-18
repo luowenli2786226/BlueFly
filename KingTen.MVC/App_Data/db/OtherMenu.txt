@@ -1,0 +1,9 @@
+{"ID":"System.Int32",,"TypeName":"System.String","Name":"System.String","Count":"System.Int32","LastArticleID":"System.Int32","OrderNum":"System.Int32"},
+{"ID":"1","TypeName":"关于我们","Name":"企业资源","Count":"1","Type":"1","LastArticleID":"1","OrderNum":"1","MenuUrl":"/about?id=1"},
+{"ID":"2","TypeName":"关于我们","Name":"生产环境","Count":"1","Type":"2","LastArticleID":"2","OrderNum":"2","MenuUrl":"/about?id=2"},
+{"ID":"3","TypeName":"关于我们","Name":"企业荣誉","Count":"1","Type":"3","LastArticleID":"3","OrderNum":"3","MenuUrl":"/about?id=3"},
+{"ID":"4","TypeName":"关于我们","Name":"企业文化","Count":"1","Type":"1","LastArticleID":"8","OrderNum":"4","MenuUrl":"/about?id=4"},
+{"ID":"5","TypeName":"关于我们","Name":"使命愿景","Count":"1","Type":"1","LastArticleID":"8","OrderNum":"5","MenuUrl":"/about?id=5"},
+{"ID":"6","TypeName":"关于我们","Name":"企业简介","Count":"1","Type":"1","LastArticleID":"8","OrderNum":"6","MenuUrl":"/about?id=6"},
+{"ID":"7","TypeName":"新闻中心","Name":"公司新闻","Count":"2","Type":"4","LastArticleID":"8","OrderNum":"7","MenuUrl":"/about?id=1"},
+{"ID":"8","TypeName":"新闻中心","Name":"行业新闻","Count":"2","Type":"4","LastArticleID":"8","OrderNum":"8","MenuUrl":"/about?id=1"}

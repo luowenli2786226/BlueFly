@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7E4BD2A5-C606-4452-A08D-3EDA2B3151D7}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KingTen.MVC</RootNamespace>
+    <AssemblyName>KingTen.MVC</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CYQ.Data">
+      <HintPath>..\packages\Taurus.MVC.2.2.2.5\lib\CYQ.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="Taurus.Core">
+      <HintPath>..\packages\Taurus.MVC.2.2.2.5\lib\Taurus.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Data\db\Article.txt" />
+    <Content Include="App_Data\db\News.txt" />
+    <Content Include="App_Data\db\OtherMenu.txt" />
+    <Content Include="App_Data\db\HomePhoto.txt" />
+    <Content Include="App_Data\db\Menu.txt" />
+    <Content Include="App_Data\db\Photo.txt" />
+    <Content Include="App_Data\db\PhotoClass.txt" />
+    <Content Include="Style\css\reset.css" />
+    <Content Include="Style\css\style.css" />
+    <Content Include="Style\images\1.jpg" />
+    <Content Include="Style\images\2.jpg" />
+    <Content Include="Style\images\3.jpg" />
+    <Content Include="Style\images\3d0965d6-791f-4f28-8f96-a7a4f63a1931.jpg" />
+    <Content Include="Style\images\4.jpg" />
+    <Content Include="Style\images\4bbceb70-c859-4e03-842c-dbc9d33b0e13.png" />
+    <Content Include="Style\images\50a4a8d7-d168-43ce-a08b-0bf6e04ea2ea.jpg" />
+    <Content Include="Style\images\949bf443-f2bb-4c7f-8b44-f554dc067951.jpg" />
+    <Content Include="Style\images\about %282%29.jpg" />
+    <Content Include="Style\images\about.jpg" />
+    <Content Include="Style\images\app.png" />
+    <Content Include="Style\images\bannerb.jpg" />
+    <Content Include="Style\images\bg.jpg" />
+    <Content Include="Style\images\bk.png" />
+    <Content Include="Style\images\bodybg.jpg" />
+    <Content Include="Style\images\case.jpg" />
+    <Content Include="Style\images\contact.jpg" />
+    <Content Include="Style\images\contact_left.jpg" />
+    <Content Include="Style\images\daili.jpg" />
+    <Content Include="Style\images\de1.jpg" />
+    <Content Include="Style\images\de3.jpg" />
+    <Content Include="Style\images\de4.jpg" />
+    <Content Include="Style\images\en.jpg" />
+    <Content Include="Style\images\fda43650-be35-4fc3-a24a-f402c442be5a.jpg" />
+    <Content Include="Style\images\first-bg-001.jpg" />
+    <Content Include="Style\images\first-bg-002.jpg" />
+    <Content Include="Style\images\first-bg-003.jpg" />
+    <Content Include="Style\images\first-bg-01.gif" />
+    <Content Include="Style\images\first-bg-02 %282%29.gif" />
+    <Content Include="Style\images\first-bg-02.gif" />
+    <Content Include="Style\images\first-bg-03.gif" />
+    <Content Include="Style\images\footerbg.jpg" />
+    <Content Include="Style\images\hbk.png" />
+    <Content Include="Style\images\hover.png" />
+    <Content Include="Style\images\leave_left.jpg" />
+    <Content Include="Style\images\lefttop.jpg" />
+    <Content Include="Style\images\lg.png" />
+    <Content Include="Style\images\logo.jpg" />
+    <Content Include="Style\images\lou.jpg" />
+    <Content Include="Style\images\maplog.png" />
+    <Content Include="Style\images\navbg.jpg" />
+    <Content Include="Style\images\news.jpg" />
+    <Content Include="Style\images\pro.jpg" />
+    <Content Include="Style\images\qc.png" />
+    <Content Include="Style\images\reposity.jpg" />
+    <Content Include="Style\images\rightgtitle.jpg" />
+    <Content Include="Style\images\righttitle.jpg" />
+    <Content Include="Style\images\right_topbg.jpg" />
+    <Content Include="Style\images\seka.png" />
+    <Content Include="Style\images\sxb.png" />
+    <Content Include="Style\images\sz.png" />
+    <Content Include="Style\images\tel.jpg" />
+    <Content Include="Style\images\topbg.jpg" />
+    <Content Include="Style\images\tu.png" />
+    <Content Include="Style\images\tu2.png" />
+    <Content Include="Style\images\tu3.png" />
+    <Content Include="Style\images\tu4.png" />
+    <Content Include="Style\images\world.jpg" />
+    <Content Include="Style\images\xg.png" />
+    <Content Include="Style\images\zh.jpg" />
+    <Content Include="Style\images\生产环境\PVC车间.JPG" />
+    <Content Include="Style\images\生产环境\一车间.JPG" />
+    <Content Include="Style\images\生产环境\办公楼.JPG" />
+    <Content Include="Style\images\生产环境\厂门.JPG" />
+    <Content Include="Style\images\生产环境\叶片冲孔.JPG" />
+    <Content Include="Style\images\生产环境\备料区.JPG" />
+    <Content Include="Style\images\生产环境\展厅.JPG" />
+    <Content Include="Style\images\生产环境\成品区.JPG" />
+    <Content Include="Style\images\生产环境\成品组装.JPG" />
+    <Content Include="Style\images\生产环境\来料检验.JPG" />
+    <Content Include="Style\images\生产环境\涂装车间.JPG" />
+    <Content Include="Style\images\生产环境\砂光.JPG" />
+    <Content Include="Style\images\生产环境\车间图.JPG" />
+    <Content Include="Style\images\生产环境\铝带生产线.JPG" />
+    <Content Include="Style\js\common.js" />
+    <Content Include="Style\js\jquery-1.8.3.min.js" />
+    <Content Include="Style\js\jquery.luara.0.0.1.min.js" />
+    <Content Include="Views\Default\about.html" />
+    <Content Include="Views\Default\aboutpic.html" />
+    <Content Include="Views\Default\CompanyCulture.html" />
+    <Content Include="Views\Default\CompanyPrize.html" />
+    <Content Include="Views\Default\CompanySource.html" />
+    <Content Include="Views\Default\contactus.html" />
+    <Content Include="Views\Default\Default.html" />
+    <Content Include="Views\Default\invitebusniess.html" />
+    <Content Include="Views\Default\items.html" />
+    <Content Include="Views\Default\newsdetail.html" />
+    <Content Include="Views\Default\newslist.html" />
+    <Content Include="Views\Default\productEnvioronment.html" />
+    <Content Include="Views\Default\productlist.html" />
+    <Content Include="Views\Default\worldcustomer.html" />
+    <Content Include="Views\Shared\master.html" />
+    <Content Include="Views\Shared\masterEn.html" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+    <Content Include="App_Data\db\body\1.body" />
+    <Content Include="App_Data\db\body\10.body">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="App_Data\db\body\2.body" />
+    <Content Include="App_Data\db\body\3.body" />
+    <Content Include="App_Data\db\body\5.body" />
+    <Content Include="App_Data\db\body\6.body" />
+    <Content Include="App_Data\db\body\7.body" />
+    <Content Include="App_Data\db\body\8.body" />
+    <Content Include="App_Data\db\body\9.body" />
+    <Content Include="App_Data\db\body\4.body" />
+    <Content Include="App_Data\db\body\11.body" />
+    <Content Include="App_Data\db\body\12.body" />
+    <None Include="Properties\PublishProfiles\blue.pubxml" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Properties\PublishProfiles\FolderProfile1.pubxml" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\KingTen.Controllers\Taurus.Controllers.csproj">
+      <Project>{c467775a-21bd-4626-8efc-ec3813c19f31}</Project>
+      <Name>Taurus.Controllers</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>62203</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:62203/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
